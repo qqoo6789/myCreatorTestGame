@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "e5eced3f-1ce9-4f30-8daf-f4b103a74ad9",
+  "atlasJson": "{\"height\":128,\"imagePath\":\"guaiwu_tex.png\",\"name\":\"guaiwu\",\"SubTexture\":[{\"x\":1,\"y\":1,\"width\":106,\"name\":\"mogu\",\"height\":97}],\"width\":128}",
+  "texture": "2d2a65ce-50c2-4999-a904-14451d1f7933",
+  "subMetas": {}
+}

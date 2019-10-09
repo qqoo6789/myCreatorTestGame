@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "721471ff-5e6c-4bc1-8c5d-39ee20aaba12",
+  "atlasJson": "{\"height\":512,\"imagePath\":\"xiaohongmao_tex.png\",\"name\":\"xiaohongmao\",\"SubTexture\":[{\"x\":209,\"y\":319,\"width\":30,\"name\":\"righthand\",\"height\":67},{\"x\":1,\"y\":432,\"width\":58,\"name\":\"rightfoot\",\"height\":70},{\"x\":87,\"y\":319,\"width\":59,\"name\":\"body\",\"height\":140},{\"x\":148,\"y\":388,\"width\":30,\"name\":\"lefthand\",\"height\":67},{\"x\":148,\"y\":457,\"width\":36,\"name\":\"shoulder\",\"height\":16},{\"x\":148,\"y\":319,\"width\":59,\"name\":\"face\",\"height\":67},{\"x\":1,\"y\":319,\"width\":84,\"name\":\"toufa\",\"height\":111},{\"x\":1,\"y\":160,\"width\":211,\"name\":\"maozi\",\"height\":157},{\"x\":1,\"y\":1,\"width\":211,\"name\":\"maozi1\",\"height\":157}],\"width\":256}",
+  "texture": "68570eed-7f36-40cb-9196-cf4c6f056513",
+  "subMetas": {}
+}
