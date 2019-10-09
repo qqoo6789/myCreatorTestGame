@@ -1,0 +1,31 @@
+{
+	"game": {
+		"name": "我的测试游戏",
+		"appid": "605516068",
+		"cid": "0"
+	},
+	"configs": [
+		{
+			"appid": "692446607",
+			"services": [
+				{
+					"service_id": "241",
+					"enable": false
+				}
+			]
+		},
+		{
+			"appid": "UNKNOW"
+		},
+		{
+			"appid": "605516068",
+			"services": [
+				{
+					"service_id": "241",
+					"enable": true
+				}
+			]
+		}
+	],
+	"needExecNative": true
+}
